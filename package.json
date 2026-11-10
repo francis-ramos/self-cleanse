@@ -1,5 +1,5 @@
 {
-  "name": "bot_modula",
+  "name": "self-cleanse",
   "module": "index.ts",
   "type": "module",
   "private": true,
